@@ -8,3 +8,5 @@ Projects done during Springboard's Data Science Career Track:
 [3. Project 3 - London Boroughs:](https://github.com/DSJourney/springboard_projects/tree/master/Project%203%20-%20London%20Housing) Focuses on data wrangling and Exploratory Data Analysis.
 
 [4. Project 4 - Big Mountain Resort:](https://github.com/DSJourney/springboard_projects/tree/master/Project%204%20-%20Big%20Mountain%20Resort) Full Data Science [Method](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1) Process. 
+
+[5. Project 5 - Quandl API Miniproject:](https://github.com/DSJourney/springboard_projects/tree/master/Project%205%20-%20Quandl%20API) Miniproject focused on learning how APIs work.
