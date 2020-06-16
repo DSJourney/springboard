@@ -10,3 +10,5 @@ Projects done during Springboard's Data Science Career Track:
 [4. Project 4 - Big Mountain Resort:](https://github.com/DSJourney/springboard_projects/tree/master/Project%204%20-%20Big%20Mountain%20Resort) Full Data Science [Method](https://medium.com/@aiden.dataminer/the-data-science-method-dsm-a-framework-on-how-to-take-your-data-science-projects-to-the-next-91f9fd81e5d1) Process. 
 
 [5. Project 5 - Quandl API Miniproject:](https://github.com/DSJourney/springboard_projects/tree/master/Project%205%20-%20Quandl%20API) Miniproject focused on learning how APIs work.
+
+[6. Project 6 - Meteorites:](https://github.com/DSJourney/springboard_projects/tree/master/Project%206%20-%20Meteorites%20(Pandas%20Profiling)) Very short code to learn how to use Pandas Profiling Package
