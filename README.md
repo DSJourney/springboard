@@ -16,3 +16,5 @@ Projects done during Springboard's Data Science Career Track:
 [7. Project 7 - SQL Country Club:](https://github.com/DSJourney/springboard_projects/tree/master/Project%207%20-%20SQL%20Country%20Club) This project is focused on practicing SQL.
 
 [8. Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/Project%208%20-%20Statistics) Exercises that require the use of scipy.stats and statsmodels.
+
+[9. Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/Project%209%20-%20App%20Store) Simple project doing Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or Google's Play Store
