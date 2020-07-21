@@ -11,6 +11,8 @@ Projects done during Springboard's Data Science Career Track:
 
 [5. Project 5 - Quandl API Miniproject:](https://github.com/DSJourney/springboard_projects/tree/master/Project%205%20-%20Quandl%20API) Miniproject focused on learning how APIs work.
 
-[6. Project 6 - Meteorites:](https://github.com/DSJourney/springboard_projects/tree/master/Project%206%20-%20Meteorites%20(Pandas%20Profiling)) Very short code to learn how to use Pandas Profiling Package
+[6. Project 6 - Meteorites:](https://github.com/DSJourney/springboard_projects/tree/master/Project%206%20-%20Meteorites%20(Pandas%20Profiling)) Very short code to learn how to use Pandas Profiling Package.
 
 [7. Project 7 - SQL Country Club:](https://github.com/DSJourney/springboard_projects/tree/master/Project%207%20-%20SQL%20Country%20Club) This project is focused on practicing SQL.
+
+[8. Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/Project%208%20-%20Statistics) Exercises that require the use of scipy.stats and statsmodels.
