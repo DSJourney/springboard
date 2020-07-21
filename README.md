@@ -17,4 +17,4 @@ Projects done during Springboard's Data Science Career Track:
 
 [8. Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/Project%208%20-%20Statistics) Exercises that require the use of scipy.stats and statsmodels.
 
-[9. Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/Project%209%20-%20App%20Store) Simple project doing Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or Google's Play Store
+[9. Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/Project%209%20-%20App%20Store) Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or Google's Play Store
