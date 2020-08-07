@@ -22,3 +22,5 @@ Projects done during Springboard's Data Science Career Track:
 [Project 10 - Red Wine:](https://github.com/DSJourney/springboard_projects/tree/master/J%20-%20Red%20Wine%20(OLS)%20) Ordinary Least Squares (OLS) prediction models for wines.
 
 [Project 11 - Boston Housing:](https://github.com/DSJourney/springboard_projects/tree/master/K%20-%20Boston%20Housing%20(OLS)) Another mini-project on the topic of Linear Regression. 
+
+[Project 12 - Logistic Regression:](https://github.com/DSJourney/springboard_projects/tree/master/L%20-%20Logistic%20Regression) Short Exercise from 2015lab5-master on Logistic Regression
