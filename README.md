@@ -25,4 +25,6 @@ Projects done during Springboard's Data Science Career Track:
 
 [Project 12 - Logistic Regression:](https://github.com/DSJourney/springboard_projects/tree/master/L%20-%20Logistic%20Regression) Short Exercise from 2015lab5-master on Logistic Regression
 
-[Project 13 - RR Coffee (Decision Trees:](https://github.com/DSJourney/springboard_projects/tree/master/M%20-%20RR%20Coffee%20(Decision%20Trees)) Predicting coffee sales using decision trees.
+[Project 13 - RR Coffee (Decision Trees):](https://github.com/DSJourney/springboard_projects/tree/master/M%20-%20RR%20Coffee%20(Decision%20Trees)) Predicting coffee sales using decision trees.
+
+[Project 14 - Coronavirus (Random Forest):](https://github.com/DSJourney/springboard_projects/tree/master/N%20-%20Coronavirus%20(Random%20Forest)) Using Random Forest to classify coronavirus patients.
