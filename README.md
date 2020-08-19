@@ -17,7 +17,7 @@ Projects done during Springboard's Data Science Career Track:
 
 [Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/H%20-%20Statistics) Exercises that require the use of scipy.stats and statsmodels. Currently frequentist statistics.
 
-[Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/I%20-%20App%20Store%20(Permutation)) Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or Google's Play Store
+[Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/I%20-%20App%20Store%20(Permutation)) Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or GPS.
 
 [Project 10 - Red Wine:](https://github.com/DSJourney/springboard_projects/tree/master/J%20-%20Red%20Wine%20(OLS)%20) Ordinary Least Squares (OLS) prediction models for wines.
 
@@ -28,3 +28,5 @@ Projects done during Springboard's Data Science Career Track:
 [Project 13 - RR Coffee (Decision Trees):](https://github.com/DSJourney/springboard_projects/tree/master/M%20-%20RR%20Coffee%20(Decision%20Trees)) Predicting coffee sales using decision trees.
 
 [Project 14 - Coronavirus (Random Forest):](https://github.com/DSJourney/springboard_projects/tree/master/N%20-%20Coronavirus%20(Random%20Forest)) Using Random Forest to classify coronavirus patients.
+
+[Project 15 - Titanic (Gradient Boosting):](https://github.com/DSJourney/springboard_projects/tree/master/O%20-%20Titanic%20(Gradient%20Boosting)) Short exercise to practice Gradient Boosting
