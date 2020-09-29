@@ -30,3 +30,9 @@ Projects done during Springboard's Data Science Career Track:
 [Project 14 - Coronavirus (Random Forest):](https://github.com/DSJourney/springboard_projects/tree/master/N%20-%20Coronavirus%20(Random%20Forest)) Using Random Forest to classify coronavirus patients.
 
 [Project 15 - Titanic (Gradient Boosting):](https://github.com/DSJourney/springboard_projects/tree/master/O%20-%20Titanic%20(Gradient%20Boosting)) Short exercise to practice Gradient Boosting
+
+[Project 16 - Euclidean and Manhattan Distances:](https://github.com/DSJourney/springboard_projects/tree/master/P%20-%20Euclidean%20and%20Manhattan%20Distances) Short exercise to review these two types of distances
+
+[Project 17 - Cosine Similarity:](https://github.com/DSJourney/springboard_projects/tree/master/Q%20-%20Cosine%20Similarity) Short practice to learn cosine similarity with text data
+
+[Project 18 - Customer Segmentation:](https://github.com/DSJourney/springboard_projects/tree/master/R%20-%20Customer%20Segmentation%20(Clustering%20and%20PCA)) Using clustering and PCA to segment customers that use offers for wine purchase
