@@ -1,3 +1,5 @@
+<img src="https://github.com/DSJourney/springboard_projects/blob/master/springboard_logo.png" alt="springboard.com" width=400>
+
 # Springboard Projects
 Projects done during Springboard's Data Science Career Track:
 
@@ -15,7 +17,7 @@ Projects done during Springboard's Data Science Career Track:
 
 [Project 7 - SQL Country Club:](https://github.com/DSJourney/springboard_projects/tree/master/G%20-%20SQL%20Country%20Club) This project is focused on practicing SQL.
 
-[Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/H%20-%20Statistics) Exercises that require the use of scipy.stats and statsmodels. Currently frequentist statistics.
+[Project 8 - Statistics:](https://github.com/DSJourney/springboard_projects/tree/master/H%20-%20Statistics) Exercises that require the use of scipy.stats & statsmodels. Currently frequentist statistics.
 
 [Project 9 - App Store:](https://github.com/DSJourney/springboard_projects/tree/master/I%20-%20App%20Store%20(Permutation)) Hypothesis Testing and Permutation to decide which to integrate Apple's App Store or GPS.
 
@@ -40,3 +42,5 @@ Projects done during Springboard's Data Science Career Track:
 [Project 19 - KNN & GridSearchCV:](https://github.com/DSJourney/springboard_projects/tree/master/S%20-%20KNN%20with%20GridSearch) Predicting diabetes with KNN and GridSearchCV 
 
 [Project 20 - Bayesian Optimization:](https://github.com/DSJourney/springboard_projects/tree/master/T%20-%20Bayesian%20Optimization) Guided project - Uses bayes_opt & lightgmb to predict plane delays.
+
+[Project 21 - Cowboy Cigarettes (Time Series):](https://github.com/DSJourney/springboard_projects/tree/master/U%20-%20Cowboy%20Cigaretters%20(Time%20Series)) Forecasting cigarette sales through ARIMA and SARIMAX models.
