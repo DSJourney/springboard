@@ -35,4 +35,8 @@ Projects done during Springboard's Data Science Career Track:
 
 [Project 17 - Cosine Similarity:](https://github.com/DSJourney/springboard_projects/tree/master/Q%20-%20Cosine%20Similarity) Short practice to learn cosine similarity with text data
 
-[Project 18 - Customer Segmentation:](https://github.com/DSJourney/springboard_projects/tree/master/R%20-%20Customer%20Segmentation%20(Clustering%20and%20PCA)) Using clustering and PCA to segment customers that use offers for wine purchase
+[Project 18 - Customer Segmentation:](https://github.com/DSJourney/springboard_projects/tree/master/R%20-%20Customer%20Segmentation%20(Clustering%20and%20PCA)) Using clustering and PCA to segment customers that use offers for wine
+
+[Project 19 - KNN & GridSearchCV:](https://github.com/DSJourney/springboard_projects/tree/master/S%20-%20KNN%20with%20GridSearch) Predicting diabetes with KNN and GridSearchCV 
+
+[Project 20 - Bayesian Optimization:](https://github.com/DSJourney/springboard_projects/tree/master/T%20-%20Bayesian%20Optimization) Guided project - Uses bayes_opt & lightgmb to predict plane delays.
