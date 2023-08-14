@@ -64,7 +64,7 @@ six==1.15.0
 tangled-up-in-unicode==0.0.6
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.3.2
+tornado==6.3.3
 tqdm==4.46.1
 traitlets==4.3.3
 urllib3==1.26.5
